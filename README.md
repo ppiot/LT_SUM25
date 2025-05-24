@@ -40,7 +40,8 @@ Maintaining a low M² (ideally < 1.3) will help ensure reproducible photoemissio
 
 Accurate measurement of the laser pulse duration is essential for understanding the temporal structure of the emitted electron bunches. Techniques such as autocorrelation, frequency-resolved optical gating (FROG), or cross-correlation with a reference signal may be employed. A sub-100 femtosecond pulse enables generation of ultrashort electron bunches, vital for applications in time-resolved science and advanced accelerator concepts.
 
-## Goal 2: Optimizing the performance of the frequency upconversion process ]]
+## Goal 2: Generating ultraviolet light
+To drive photoemission from the copper photocathode, the laser system must produce light in the ultraviolet (UV) range—typically around 260–270 nm for efficient electron extraction. This is achieved through nonlinear optical processes such as second-harmonic generation (SHG) and third-harmonic generation (THG). Starting with an ultrafast infrared (IR) or visible laser (e.g., 800 nm), frequency conversion crystals such as beta barium borate (BBO) are used to generate the required harmonics. Careful alignment, phase matching, and temporal synchronization are essential to maintain high conversion efficiency and preserve pulse duration. The resulting UV pulses must retain high beam quality and short duration to ensure localized, high-field excitation of the photocathode surface.
 
 ## Goal 3: Beam on virtual photocathode plane
 
