@@ -38,11 +38,18 @@ Maintaining a low M² (ideally < 1.3) will help ensure reproducible photoemissio
 
 ### Pulse Duration 
 
-Accurate measurement of the laser pulse duration is essential for understanding the temporal structure of the emitted electron bunches. Techniques such as autocorrelation, frequency-resolved optical gating (FROG), or cross-correlation with a reference signal may be employed. A sub-100 femtosecond pulse enables generation of ultrashort electron bunches, vital for applications in time-resolved science and advanced accelerator concepts. In June we expect to receive an autocorrelator from APE; see description from the [APE website](https://www.ape-berlin.de/en/autocorrelator/pulsecheck/)
+Accurate measurement of the laser pulse duration is essential for understanding the temporal structure of the emitted electron bunches. Techniques such as autocorrelation, frequency-resolved optical gating (FROG), or cross-correlation with a reference signal may be employed. A sub-100 femtosecond pulse enables generation of ultrashort electron bunches, vital for applications in time-resolved science and advanced accelerator concepts. In June we expect to receive an autocorrelator from APE; see description from the [APE website](https://www.ape-berlin.de/en/autocorrelator/pulsecheck/). We will use this instrument to characterize the laser-pulse duration. 
+
+- **Measurement of nominal pulse duration and shape** 
+- **Measurement of pulse duration as a functiom pulse-compression grating settings** to observe beam shape and evolution: we wil
 
 ## Goal 2: Generating ultraviolet light (week 6 to week 8)
-To drive photoemission from the copper photocathode, the laser system must produce light in the ultraviolet (UV) range—typically around 260–270 nm for efficient electron extraction. This is achieved through nonlinear optical processes such as second-harmonic generation (SHG) and third-harmonic generation (THG). Starting with an ultrafast infrared (IR) or visible laser (e.g., 800 nm), frequency conversion crystals such as beta barium borate (BBO) are used to generate the required harmonics. Careful alignment, phase matching, and temporal synchronization are essential to maintain high conversion efficiency and preserve pulse duration. The resulting UV pulses must retain high beam quality and short duration to ensure localized, high-field excitation of the photocathode surface.
+To drive photoemission from the copper photocathode, the laser system must produce light in the ultraviolet (UV) range—typically around 260–270 nm for efficient electron extraction. This is achieved through nonlinear optical processes such as second-harmonic generation (SHG) and third-harmonic generation (THG). Starting with an ultrafast infrared (IR) or visible laser (e.g., 800 nm), frequency conversion crystals such as beta barium borate (BBO) are used to generate the required harmonics. Careful alignment, phase matching, and temporal synchronization are essential to maintain high conversion efficiency and preserve pulse duration. The resulting UV pulses must retain high beam quality and short duration to ensure localized, high-field excitation of the photocathode surface. The work will include 
+
+- **Measurement of stage 1 conversion efficiency and power (1034 to 517 nm)** Perform study of conversion efficiency as function of incoming IR laser pulse, polarization and BBO crystal phase matching angle
+- **Measurement of stage 2 conversion efficiency and power (517 to 258 nm)** Perform study of conversion efficiency as function of incoming IR laser pulse, polarization and BBO crystal phase matching angle; measure UV laser shape for a few settings (TBD)
+
 
 ## Goal 3: Beam on virtual photocathode plane (week 9)
 
-## Stretch Goal 4: Understanding Photoemission Mechanisms (stretched goal week 9 if realistic pending schedule)
+## Stretch Goal 4: Understanding Photoemission Mechanisms (week 9 if realistic pending schedule)
