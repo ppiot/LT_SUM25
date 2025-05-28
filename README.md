@@ -38,7 +38,7 @@ Maintaining a low M² (ideally < 1.3) will help ensure reproducible photoemissio
 
 ### Pulse Duration 
 
-Accurate measurement of the laser pulse duration is essential for understanding the temporal structure of the emitted electron bunches. Techniques such as autocorrelation, frequency-resolved optical gating (FROG), or cross-correlation with a reference signal may be employed. A sub-100 femtosecond pulse enables generation of ultrashort electron bunches, vital for applications in time-resolved science and advanced accelerator concepts. In June we expect to receive an autocorrelator from APE; see description from the [APE website](https://www.ape-berlin.de/en/autocorrelator/pulsecheck/). We will use this instrument to characterize the laser-pulse duration. 
+Accurate measurement of the laser pulse duration is essential for understanding the temporal structure of the emitted electron bunches. Techniques such as autocorrelation, frequency-resolved optical gating (FROG), or cross-correlation with a reference signal may be employed. A sub-picosecond pulse enables generation of ultrashort electron bunches. In June we expect to receive an autocorrelator from APE; see description from the [APE website](https://www.ape-berlin.de/en/autocorrelator/pulsecheck/). We will use this instrument to characterize the laser-pulse duration. 
 
 - **Measurement of nominal pulse duration and shape** 
 - **Measurement of pulse duration as a functiom pulse-compression grating settings** to observe beam shape and evolution: we wil
@@ -52,4 +52,4 @@ To drive photoemission from the copper photocathode, the laser system must produ
 
 ## Goal 3: Beam on virtual photocathode plane (week 9)
 
-## Stretch Goal 4: Understanding Photoemission Mechanisms (week 9 if realistic pending schedule)
+## Stretch Goal 4: Photoemission from the APS Photocathode RF gun (week 9 if realistic -- pending schedule)
