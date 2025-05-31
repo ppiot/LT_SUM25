@@ -29,9 +29,9 @@ Beam quality refers to the spatial coherence, stability, and mode structure of t
 
 Evaluation of beam quality will include:
 
+- **Pointing stability analysis** over extended time periods: the CCD measurement can be used to extract the centroid of the beam (in addition to its size) and long term-measurement provide an assessment of beam stability. Likewise the total intensity can be used to measure the total laser energy (e.g. calibrated agains an energy meter). 
 - **Near- and far-field imaging** to observe beam shape and evolution: we will use a simple CCD camera likley a USB CCD called firefly from FLIR
 - **M² measurements** using a beam propagation method: knife-edge or camera-based profiling across a known focal length; see [Siegman paper 1](https://opg.optica.org/abstract.cfm?URI=DLAI-1998-MQ1), [Siegman paper #2](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1868/1/Defining-measuring-and-optimizing-laser-beam-quality/10.1117/12.150601.full?SSO=1), also an excellent (and free!) source is the optics textbook by [Justin Peatross and Michael Ware](https://optics.byu.edu/docs/opticsBook.pdf) 
-- **Pointing stability analysis** over extended time periods: the CCD measurement can be used to extract the centroid of the beam (in addition to its size) and long term-measurement provide an assessment of beam stability. Likewise the total intensity can be used to measure the total laser energy. 
 - **advanced topic: Zernicke-polynomial decomposition** to assess spatial frequency content and coherence.
 
 Maintaining a low M² (ideally < 1.3) will help ensure reproducible photoemission conditions and optimal coupling between the laser and the photocathode. This, in turn, improves the quality and stability of the resulting electron bunches.
